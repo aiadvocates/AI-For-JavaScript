@@ -8,7 +8,7 @@ AI resourses, code samples for JavaScript and TypeScript developers
   - [Language]()
     - [Fast an easy way to translate your website and documents]()   
   - [Speech]()
-    - [Include everyone with Speech and translation]
+    - [Include everyone with Speech and translation]()
   - [Computer Vision]()
     - [How to train AI to Recognize your brand]()
     - 
